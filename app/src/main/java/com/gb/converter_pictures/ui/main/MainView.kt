@@ -1,4 +1,4 @@
-package com.gb.converter_pictures.ui
+package com.gb.converter_pictures.ui.main
 
 import moxy.MvpView
 
